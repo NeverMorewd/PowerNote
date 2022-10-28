@@ -24,7 +24,7 @@ A powerful note app on Windows.
 产品本质是一个windows效率工具+笔记本工具的合体
 
 ## 技术方案
-技术选型：.NET6 + WPF
-开发环境：windows10/11 + visual studio 2022
+###### 技术选型：.NET6 + WPF
+###### 开发环境：windows10/11 + visual studio 2022
 参考：
 https://github.com/HandyOrg/HandyControl
